@@ -43,4 +43,32 @@
     <string name="episode_poster_img_des">ଅଧ୍ୟାୟର ପୋଷ୍ଟର୍</string>
     <string name="home_main_poster_img_des">ମୁଖ୍ୟ ପୋଷ୍ଟର୍</string>
     <string name="default_subtitles">ଡିଫଲ୍ଟ</string>
+    <string name="extension_language">ଭାଷା</string>
+    <string name="no">ନାହିଁ</string>
+    <string name="extension_description">ଵର୍ଣ୍ଣନା</string>
+    <string name="yes">ହଁ</string>
+    <string name="library">ଲାଇବ୍ରେରୀ</string>
+    <string name="history">ଇତିଵୃତ୍ତି</string>
+    <string name="extension_authors">ଲେଖକ</string>
+    <string name="skip_type_format" formatted="true">%s ବାଦ୍ ଦିଅ</string>
+    <string name="subs_subtitle_languages">ଉପଶୀର୍ଷକ ଭାଷା</string>
+    <string name="single_plugin_disabled" formatted="true">%s (ଅକ୍ଷମ)</string>
+    <string name="extension_status">ସ୍ଥିତି</string>
+    <string name="extension_size">ଆକାର</string>
+    <string name="extension_types">ସମର୍ଥିତ</string>
+    <string name="hls_playlist">HLS ଚାଳନାତାଲିକା</string>
+    <string name="player_settings_play_in_app">ଅନ୍ତଃ-ଚାଳକ</string>
+    <string name="skip_type_op">ଆଦ୍ୟ</string>
+    <string name="skip_type_ed">ପ୍ରାନ୍ତ</string>
+    <string name="app_not_found_error">ଆପ୍ ମିଳିଲା ନାହିଁ</string>
+    <string name="all_languages_preference">ସବୁ ଭାଷା</string>
+    <string name="player_settings_play_in_vlc">VLC</string>
+    <string name="player_settings_play_in_mpv">MPV</string>
+    <string name="skip_type_mixed_ed">ମିଶ୍ରିତ ପ୍ରାନ୍ତ</string>
+    <string name="skip_type_mixed_op">ମିଶ୍ରିତ ଆଦ୍ୟ</string>
+    <string name="skip_type_creddits">ଶ୍ରେୟ</string>
+    <string name="skip_type_intro">ଉପକ୍ରମ</string>
+    <string name="provider_languages_tip">ଏହି ଭାଷାଗୁଡ଼ିକରେ ଵିଡ଼ିଓ ଦେଖନ୍ତୁ</string>
+    <string name="extension_version">ସଂସ୍କରଣ</string>
+    <string name="app_language">ଆପ୍ ଭାଷା</string>
 </resources>
